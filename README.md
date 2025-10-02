@@ -1,6 +1,4 @@
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-# Bienvenido usuario 🐱
+# <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" style="vertical-align:middle;"> Bienvenido usuario
 
 Este es un **Repositorio de Ejercicios de Seguridad Informática en .NET**  
 
