@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qb8U9C+xX70=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ermes\\OneDrive\\Documentos\\Universidad\\Año 2025\\Seguridad Informatica\\Codigos\\Criptografia\\Criptografia\\Criptografia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ermes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\ermes\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\ermes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\ermes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
